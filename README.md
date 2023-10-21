@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fulati+Aizihaer" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=2000&random=false&width=650&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Fulati+Aizihaer" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate Full-Stack developer from California, USA.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUyMms3c2d6b3JzamQ0eXpjMTl0Nm1xMGN0N3ZjN3JkbHVtNGdkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
