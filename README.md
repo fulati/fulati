@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUyMms3c2d6b3JzamQ0eXpjMTl0Nm1xMGN0N3ZjN3JkbHVtNGdkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 GumGum Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for GumGum for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [https://github.com/fulati/GumGum_Text_Classification_Model](https://github.com/fulati/GumGum_Text_Classification_Model)
-
 - 👨‍💻 All of my projects are available at [fulatiaizihaer.com](fulatiaizihaer.com)
 
 - 📫 How to reach me **faizihaer@gmail.com**
